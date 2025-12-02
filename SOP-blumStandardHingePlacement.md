@@ -1,5 +1,7 @@
 # SOP – Blum Standard Hinge Placement
 
+***All measurements to the centerline of hinge***
+
 **• 3.5" from bottom of cabinet door**  
 **• 3.5" from top of cabinet door**  
 **• Intermediate hinges spaced evenly**  
@@ -13,7 +15,7 @@
 
 ---
 
-## Exceptions
+## Exceptions- in any exception, *all* hinge placements must be dimensioned, for shop clarity.
 
 - If a hinge interferes with a rollout, shelf, or interior component, move the offending hinge. In this case, *all* hinge placements must be dimensioned for shop clarity.
 - If there is a rollout at the bottom of the cabinet, move the bottom hinge to **4.5"** from the bottom of the door; others should be evenly spaced.
