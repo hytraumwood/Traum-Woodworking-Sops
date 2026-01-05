@@ -3,7 +3,7 @@
 ## Shop Drawings
   {Area- not on all drawings}_ Room Number_ Room-Name_ Rev#_ Submittal Type_ Date
   > MH 116B Guest Bath Rev0 For Submittal 11-26-24
-
+  >
   > 011 Dressing Room Rev2 For Approval 12-2-23
   
   ### Notes
@@ -12,15 +12,17 @@
 - The Production folder should contain **NO** shop drawings until marked by Stockbiller, at time of release. 
     - Acceptable Submittal Types are, in order:
       > For Submittal
+      >
       > For Approval
+      >
       > RFC
 
 ## Room Folder/Tree
   Room-Number_ Room/Scope Name
   > Kitchen Island
-
+  >
   > 002b Guest Bath
-
+  >
   > Lower Level
 
   ### Notes
