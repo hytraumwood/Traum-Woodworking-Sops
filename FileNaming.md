@@ -11,6 +11,7 @@
 - There should only be **ONE** shop drawing in the \3. Engineering-Production\* folder at any time. Old copies of the .pdf should be moved into the \Archive of the room folder.
 - The Production folder should contain **NO** shop drawings until marked by Stockbiller, at time of release. 
 - Acceptable Submittal Types are, in order:
+
   > For Submittal
   >
   > For Approval
