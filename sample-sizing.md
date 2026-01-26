@@ -4,4 +4,4 @@
 - Unless otherwise specified, all samples should fit into a "Large" size FedEx box with packaging
   - Inside dimensions of the box: 12 3/8" x 3" x 17 1/2"
 
-- See [Samples Process](.\samples-process.md) for more information regarding sample process as a whole.
+- See [Samples Process](\samples-process.md) for more information regarding sample process as a whole.
