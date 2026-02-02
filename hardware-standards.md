@@ -1,5 +1,5 @@
 # Hardware Standards
-
+- This SOP determines the hardware to be used unless otherwise specified by a project team. 
 ## Cabinet Hinges
 - All cabinet hinges to be Salice brand; existing projects that used the Blum spec will continue.
 
@@ -15,4 +15,6 @@
 
 ## Drawer Slides
 - All drawer slides are also to be Salice brand where applicable
-
+## Shelf Pins
+- 5 mm shelf pins
+- Adj shelves drawn with three holes, 32 mm spacing between each- one above shelf location, one below
