@@ -27,7 +27,7 @@ Weekly meeting scheduled; cancelled if there are no new releases to the shop to 
   - Workflow type; cabinetry, paneling, doors, etc.
   - Special considerations for scope; glass, leather, fabric, metal, etc. 
 - Details
-  - Profiles, drawer fronts, 
+  - Profiles, drawer fronts, interactions
 - Shop breakdown
   - Should this scope area/room be released to the shop in separate releases?
   - What is the breakdown?
