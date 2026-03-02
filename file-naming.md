@@ -26,5 +26,5 @@
   >
   > Lower Level
 
-  ### Notes
-    - Job Number clutters the view- room folders should be noted by their Room Name and Scope Items alone
+### Notes
+- Job Number clutters the view- room folders should be noted by their Room Name and Scope Items alone
