@@ -1,0 +1,1 @@
+In the case where a group of cabinets are "ganged" together, and the bottom panel runs through the entire "gang", the following detail is the standard. ![Ganged Cabinet Panel](images/ganged-cabinet-panel.jpg) 

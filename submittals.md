@@ -1,7 +1,7 @@
 # Submittals
 
 ## Submittal Log
-- All Shop drawings must have an associated submittal in the Innergy project
+- All Shop drawing submittals must have an associated Submittal in the Innergy project
 - Submittal status allows Project Manager to track the submittal out to client
   - When submitted, change status to submitted
   - When returned, mark status of the return
@@ -12,4 +12,4 @@
 - Go to the submittals tab
 - Select Create above the grid
 - Name the submittal for the Drafting Work Order/ scope area, following the [file naming](/file-naming.md) convention
-- Add the shop drawings/pdf (not required, helpful for tracking to client
+- Add the shop drawings/pdf (not required, helpful for tracking revisions)
