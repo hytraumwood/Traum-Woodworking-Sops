@@ -16,3 +16,6 @@ Please see [Stock Purchasing](/purchasing-stock.md) for a detailed process frame
 * Verbal orders (shop floor/office)
 
 In the above cases, a ticket must be filled out and given to the purchasing manager, in order to document who/what/when was needed, without relying on Innergy to capture these items. 
+
+## Receiving
+Please see [Receiving Process](/receiving-process.md) for a detailed process framework
