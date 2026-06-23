@@ -1,5 +1,7 @@
 # SOP - Purchasing Process for Non-Stock Items
 
+See also: [Purchasing Overview](purchasing-process.md) | [Stock Purchasing](purchasing-stock.md) | [Receiving Process](receiving-process.md) | [Material Cards](Innergy/material-cards.md)
+
 ## PURPOSE
 Ensure all non-stock materials are properly tracked, purchased, and received using a standardized process.
 

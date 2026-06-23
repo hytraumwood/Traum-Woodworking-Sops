@@ -4,7 +4,7 @@ This SOP determines who/when a drafting labor kanban card is created, completed,
 
 ## Creation
 
-- The labor kanban card for drafting is created via the [Work Orders](work-orders.md) process. Reminder: at least one hour of drafting labor must be attached to a work order in order for it to show up in the Labor Kanban.
+- The labor kanban card for drafting is created via the [Work Orders](../Innergy/work-orders.md) process. Reminder: at least one hour of drafting labor must be attached to a work order in order for it to show up in the Labor Kanban.
 
 ## Queue
 

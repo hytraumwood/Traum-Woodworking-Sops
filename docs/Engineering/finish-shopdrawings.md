@@ -12,4 +12,4 @@ This SOP is to determine the standard for finish callouts and schedules for shop
   - In finish schedule, PT material to be "mill option", for clarity
 
 ### Notes
-- Please see [Sample Process](/Production/samples-process.md) for finish callouts on shop releases, as well as the process for sampling
+- Please see [Sample Process](../Production/samples-process.md) for finish callouts on shop releases, as well as the process for sampling

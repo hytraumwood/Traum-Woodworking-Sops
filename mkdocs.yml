@@ -1,9 +1,9 @@
 site_name: Traum SOPs
-site_url: https://wiki.teamhub.com
+site_url: https://wiki.traumwood.team
 theme:
   name: material
   palette:
-    primary: indigo
+    primary: black
   features:
     - navigation.tabs
     - navigation.sections
@@ -12,52 +12,50 @@ theme:
 
 nav:
   - Home: index.md
-  - General:
-    - Connected Factory: connected_factory.md
-    - Die Walls: die-walls.md
-    - Drafting Kanban: drafting-kanban.md
-    - File Naming: file-naming.md
-    - File Tree: file-tree.md
-    - Finish Shop Drawings: finish-shopdrawings.md
-    - Finished Bottom Panel: finished-bottom-panel.md
-    - Handoff Agenda: handoff-agenda.md
-    - Hardware Standards: hardware-standards.md
-    - Hinge Placement: hinge-placement.md
-    - Install Kits: install-kits.md
-    - Internal Review: internal-review.md
-    - Painted Cabinets Edgebanding: painted-cabinets-edgebanding.md
-    - Project Information: project-information.md
-    - Receiving Process: receiving-process.md
-    - Release to Stockbilling: release-to-stockbilling.md
-    - Rollout Sizing: rollout-sizing.md
-    - Shippable Item Size: shippable-item-size.md
-    - Solid Wood Edges: solid-wood-edges.md
-    - Submittals: submittals.md
-    - Shop Fit-Up: trim-out-elevation.md
-    - Work Orders: work-orders.md
-  - Purchasing:
-    - Purchasing Process: purchasing-process.md
-    - Purchasing Stock: purchasing-stock.md
-    - Purchasing Non-Stock: purchasing-non-stock.md
-    - Receiving Process: receiving-process.md
   - Engineering:
-    - Shelf Setback: Engineering/shelf-setback.md
-    - Sheppard Brackets: Engineering/sheppard-brackets.md
-    - Sink Aprons: Engineering/sink-aprons.md
-    - Standoffs at Rollouts: Engineering/standoffs-at-rollouts.md
-  - Fire Doors:
-    - 20 Min Jamb: fire-doors/20-min-jamb.md
-    - 20 Min Slab: fire-doors/20-min-slab.md
-    - 20 Min Stile & Rail: fire-doors/20-min-stile_rail.md
-    - 60 Min Jamb: fire-doors/60-min-jamb.md
-    - 60 Min Slab: fire-doors/60-min-slab.md
-    - 60 Min Stile & Rail: fire-doors/60-min-stile_rail.md
-  - Innergy:
-    - Material Cards: Innergy/material-cards.md
+    - Drafting Workflow:
+      - Work Orders: Innergy/work-orders.md
+      - File Standards: Engineering/file-standards.md
+      - Internal Review: Engineering/internal-review.md
+      - Finish Callouts: Engineering/finish-shopdrawings.md
+      - Submittals: Engineering/submittals.md
+      - Drafting Kanban: Engineering/drafting-kanban.md
+      - Release to Stockbilling: Engineering/release-to-stockbilling.md
   - Production:
+    - Handoff Agenda: Production/handoff-agenda.md
+    - Install Kits: Production/install-kits.md
+    - Shop Fit-Up: Production/trim-out-elevation.md
     - Balance Standards: Production/balance-standards.md
     - Samples Process: Production/samples-process.md
     - Shop Supplied Tools: Production/shop-supplied-tools.md
+    - Fabrication Standards:
+      - Hardware Standards: Production/hardware-standards.md
+      - Hinge Placement: Production/hinge-placement.md
+      - Die Walls: Production/die-walls.md
+      - Rollout Standards: Production/rollout-standards.md
+      - Solid Wood Edges: Production/solid-wood-edges.md
+      - Painted Cabinets / Edgebanding: Production/painted-cabinets-edgebanding.md
+      - Finished Bottom Panel: Production/finished-bottom-panel.md
+      - Shippable Item Size: Production/shippable-item-size.md
+      - Sink Aprons: Production/sink-aprons.md
+      - Sheppard Brackets: Production/sheppard-brackets.md
+      - Shelf Setback: Production/shelf-setback.md
+    - Fire Doors:
+      - 20 Min Jamb: Production/fire-doors/20-min-jamb.md
+      - 20 Min Slab: Production/fire-doors/20-min-slab.md
+      - 20 Min Stile & Rail: Production/fire-doors/20-min-stile_rail.md
+      - 60 Min Jamb: Production/fire-doors/60-min-jamb.md
+      - 60 Min Slab: Production/fire-doors/60-min-slab.md
+      - 60 Min Stile & Rail: Production/fire-doors/60-min-stile_rail.md
+  - Purchasing:
+    - Overview: purchasing-process.md
+    - Stock Materials: purchasing-stock.md
+    - Non-Stock Materials: purchasing-non-stock.md
+    - Receiving: receiving-process.md
+  - Innergy:
+    - Project Information: Innergy/project-information.md
+    - Material Cards: Innergy/material-cards.md
+    - Work Orders: Innergy/work-orders.md
 
 markdown_extensions:
   - admonition

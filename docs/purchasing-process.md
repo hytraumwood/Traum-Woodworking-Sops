@@ -1,21 +1,34 @@
-# Purchasing Operating Process
+# Purchasing Overview
+
+See also: [Stock Purchasing](purchasing-stock.md) | [Non-Stock Purchasing](purchasing-non-stock.md) | [Receiving Process](receiving-process.md)
 
 ## Purpose
-* To detail the process for purchasing all materials within Traum's schedules
-* To ensure that all materials can be purchased from 1 source of Truth (Innergy)
-* To provide a framework for the Purchasing/Receiving department to work from
+
+- Detail the process for purchasing all materials within Traum's schedules
+- Ensure all materials can be purchased from one source of truth (Innergy)
+- Provide a framework for the Purchasing/Receiving department
 
 ## Non-Stock Materials
-Please see [Non-Stock Purchasing](/purchasing-non-stock.md) for a detailed process framework. 
+
+See [Non-Stock Purchasing](purchasing-non-stock.md) for the full process. Non-stock materials flow through:
+
+**Material Card → BOM → MTB Grid → PO → Received to Work Order**
 
 ## Stock Materials
-Please see [Stock Purchasing](/purchasing-stock.md) for a detailed process framework.
 
-### Exceptions
-* Office supplies
-* Verbal orders (shop floor/office)
+See [Stock Purchasing](purchasing-stock.md) for the full process. Stock materials flow through:
 
-In the above cases, a ticket must be filled out and given to the purchasing manager, in order to document who/what/when was needed, without relying on Innergy to capture these items. 
+**MTB Grid (Stock View) → PO → Received to Inventory → Request & Fulfill**
 
 ## Receiving
-Please see [Receiving Process](/receiving-process.md) for a detailed process framework
+
+See [Receiving Process](receiving-process.md) for the full process.
+
+## Exceptions
+
+The following do **not** flow through Innergy:
+
+- Office supplies
+- Verbal orders (shop floor/office)
+
+In these cases, a written ticket must be filled out and given to the purchasing manager to document who, what, and when.

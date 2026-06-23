@@ -1,6 +1,6 @@
 # SOP - Internal Review of Shop Drawings
 
-See also: [Submittals](submittals.md) | [Drafting Kanban](drafting-kanban.md) | [File Naming](file-naming.md)
+See also: [Submittals](submittals.md) | [Drafting Kanban](drafting-kanban.md) | [File Standards](file-standards.md)
 
 ## PURPOSE
 Ensure all shop drawings are reviewed internally for accuracy and completeness prior to client submittal.
@@ -46,7 +46,7 @@ Ensure all shop drawings are reviewed internally for accuracy and completeness p
 
 ### 5. Submittal Process
 5.1 Once approved internally:
-- PM proceeds with [Submittal](/submittals.md) process
+- PM proceeds with [Submittal](submittals.md) process
 
 ---
 

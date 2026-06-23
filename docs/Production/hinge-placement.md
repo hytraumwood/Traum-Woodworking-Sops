@@ -23,11 +23,11 @@ In any exception, *all* hinge placements must be dimensioned in drawings for sho
 
 - If a hinge interferes with a rollout, shelf, or interior component, move the offending hinge.
 - If there is a rollout at the bottom of the cabinet, move the bottom hinge to **4.5"** from the bottom of the door; others should be evenly spaced.
-- If a sink cabinet has an apron on the interior, move the top hinge to **1" below the bottom of the apron panel**. Add a second hinge **2.5" below the top hinge (3.25" for Salice)**, then evenly space remaining hinges. See also: [Sink Aprons](Engineering/sink-aprons.md).
+- If a sink cabinet has an apron on the interior, move the top hinge to **1" below the bottom of the apron panel**. Add a second hinge **2.5" below the top hinge (3.25" for Salice)**, then evenly space remaining hinges. See also: [Sink Aprons](sink-aprons.md).
 - If **door width exceeds door height**, add a second hinge at the top, placed **2.5" below the top hinge**, and evenly space remaining hinges.
 
 ---
 
 **Apron Panel Spec:** Maximum desired interior apron height: **6"**
 
-See also: [Standoffs at Rollouts](Engineering/standoffs-at-rollouts.md) | [Rollout Sizing](rollout-sizing.md)
+See also: [Rollout Standards](rollout-standards.md)

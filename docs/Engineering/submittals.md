@@ -13,5 +13,5 @@ See also: [Internal Review](internal-review.md) | [Drafting Kanban](drafting-kan
 ## Creating a submittal
 - Go to the submittals tab
 - Select Create above the grid
-- Name the submittal for the Drafting Work Order/ scope area, following the [file naming](/file-naming.md) convention
+- Name the submittal for the Drafting Work Order/ scope area, following the [file standards](file-standards.md) convention
 - Add the shop drawings/pdf (not required, helpful for tracking revisions)
