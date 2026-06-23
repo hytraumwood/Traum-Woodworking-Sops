@@ -1,0 +1,65 @@
+site_name: Traum SOPs
+site_url: https://wiki.teamhub.com
+theme:
+  name: material
+  palette:
+    primary: indigo
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - General:
+    - Connected Factory: connected_factory.md
+    - Die Walls: die-walls.md
+    - Drafting Kanban: drafting-kanban.md
+    - File Naming: file-naming.md
+    - File Tree: file-tree.md
+    - Finish Shop Drawings: finish-shopdrawings.md
+    - Finished Bottom Panel: finished-bottom-panel.md
+    - Handoff Agenda: handoff-agenda.md
+    - Hardware Standards: hardware-standards.md
+    - Hinge Placement: hinge-placement.md
+    - Install Kits: install-kits.md
+    - Internal Review: internal-review.md
+    - Painted Cabinets Edgebanding: painted-cabinets-edgebanding.md
+    - Project Information: project-information.md
+    - Receiving Process: receiving-process.md
+    - Release to Stockbilling: release-to-stockbilling.md
+    - Rollout Sizing: rollout-sizing.md
+    - Shippable Item Size: shippable-item-size.md
+    - Solid Wood Edges: solid-wood-edges.md
+    - Submittals: submittals.md
+    - Shop Fit-Up: trim-out-elevation.md
+    - Work Orders: work-orders.md
+  - Purchasing:
+    - Purchasing Process: purchasing-process.md
+    - Purchasing Stock: purchasing-stock.md
+    - Purchasing Non-Stock: purchasing-non-stock.md
+    - Receiving Process: receiving-process.md
+  - Engineering:
+    - Shelf Setback: Engineering/shelf-setback.md
+    - Sheppard Brackets: Engineering/sheppard-brackets.md
+    - Sink Aprons: Engineering/sink-aprons.md
+    - Standoffs at Rollouts: Engineering/standoffs-at-rollouts.md
+  - Fire Doors:
+    - 20 Min Jamb: fire-doors/20-min-jamb.md
+    - 20 Min Slab: fire-doors/20-min-slab.md
+    - 20 Min Stile & Rail: fire-doors/20-min-stile_rail.md
+    - 60 Min Jamb: fire-doors/60-min-jamb.md
+    - 60 Min Slab: fire-doors/60-min-slab.md
+    - 60 Min Stile & Rail: fire-doors/60-min-stile_rail.md
+  - Innergy:
+    - Material Cards: Innergy/material-cards.md
+  - Production:
+    - Balance Standards: Production/balance-standards.md
+    - Samples Process: Production/samples-process.md
+    - Shop Supplied Tools: Production/shop-supplied-tools.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true

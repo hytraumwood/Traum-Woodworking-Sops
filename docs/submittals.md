@@ -1,5 +1,7 @@
 # Submittals
 
+See also: [Internal Review](internal-review.md) | [Drafting Kanban](drafting-kanban.md) | [Release to Stockbilling](release-to-stockbilling.md)
+
 ## Submittal Log
 - All Shop drawing submittals must have an associated Submittal in the Innergy project
 - Submittal status allows Project Manager to track the submittal out to client

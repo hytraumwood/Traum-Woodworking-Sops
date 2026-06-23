@@ -28,7 +28,7 @@ Define a clear standard for when solid wood edges are tongued vs. applied to ens
 * Stronger joint
 * Better alignment
 * Easier installation
-* Matches premium quality standards fileciteturn0file0
+* Matches premium quality standards
 
 ---
 
